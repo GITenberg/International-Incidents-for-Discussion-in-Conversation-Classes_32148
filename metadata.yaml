@@ -1,0 +1,29 @@
+_repo: International-Incidents-for-Discussion-in-Conversation-Classes_32148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oppenheim, L. (Lassa)
+    alias: Oppenheim, Lassa Francis Lawrence
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '25139'
+    url: http://www.gutenberg.org/2009/agents/25139
+    wikipedia: http://en.wikipedia.org/wiki/L._F._L._Oppenheim
+description: ''
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32148'
+  lccn: '10012445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'International relations -- Study and teaching'
+title: International Incidents for Discussion in Conversation Classes
+url: http://www.gutenberg.org/ebooks/32148
